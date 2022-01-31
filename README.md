@@ -1,4 +1,4 @@
-# MultiPoseSeg:Feedback Knowledge Transfer forMulti-Person Pose Estimation and Instance Segmentation
+# MultiPoseSeg:Feedback Knowledge Transfer for Multi-Person Pose Estimation and Instance Segmentation
 Multi Person Pose &amp; Instance Segmentation
 
 # Model Architecture:
