@@ -85,7 +85,7 @@ The `coco2017` folder should be like this:
 
 Please lookout the `PosePlusSeg_Test` folder for testing the model. 
 
-# Visualize Results:
+# Visual Results:
 
 #### Human Pose Estimation:
 <img src="demo_result/pose.png" width="500" height="600">
