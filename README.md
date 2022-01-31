@@ -11,14 +11,14 @@ COCO contains highest bias where only one individual exist in a picture as shown
     <img src="Results/COCO_Orig.png" width="350" height="240">
 </p>
 <p>
-    <em>Figure 1: Orignal COCO dataset with bias</em>
+    <em>Figure 1: Unbalanced portions of different number of individuals(1 to 13) in COCO dataset where single-person accounts 48%whereas multi-person more than 5 accounts only 1%</em>
 </p>
 
 <p>
     <img src="Results/COCO_reduce.png" width="550" height="350">
 </p>
 <p>
-    <em>Figure 2: COCO dataset with bias reduction start form 30% to 80%</em>
+    <em>Figure 2: Bias  reduction  in  COCO  data  set  for  model  trainingto focus on crowded and challenging scenarios. We start from30%(a) reduction in bias and with increase of 10% we reducebias 40%(b) in the next iteration and so on upto 80%(f)</em>
 </p>
 
 ### Reduce Bias Datasets are avilable in COCO formate:
