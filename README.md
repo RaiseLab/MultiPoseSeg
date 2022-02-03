@@ -57,7 +57,7 @@ COCO contains highest bias where only one individual exist in a picture as shown
 
 #### Hint: 
 
-Person keypoint dataset is a subset of COCO2017 dataset ([COCO 2017 Train images 118K/18GB](http://images.cocodataset.org/annotations/annotations_trainval2017.zip)). We train **MultiPoseSeg** on human key points and segmentation to introducing a new multi-task system. 
+Person keypoint dataset is a subset of COCO2017 dataset ([COCO 2017 Train images 118K/18GB](http://images.cocodataset.org/annotations/annotations_trainval2017.zip)). We train **MultiPoseSeg** on human keypoints and segmentation to introducing a new multi-task system. 
 
 
 # Setup data:
