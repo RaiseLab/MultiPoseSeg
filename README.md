@@ -2,7 +2,7 @@
 Multi Person Pose &amp; Instance Segmentation
 
 # Model Architecture:
-<img src="Results/MultiPoseSeg.png" width="900" height="400">
+<img src="Results/MultiPoseSeg.png" width="1000" height="400">
 
 # Data Preparation:
 COCO contains highest bias where only one individual exist in a picture as shown in Figure 1. We perform 30% random data reduction in first iteration and 10% on next 5 iterations on bias class and store the result file on each iteration, Figure 2 shows the bias reduction on each iteration.
