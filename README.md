@@ -42,7 +42,7 @@ COCO contains highest bias where only one individual exist in a picture as shown
 - conda install tensorflow-gpu==1.13.1
 ```
 
-**Recomendation:** tensorflow 1.13,coda 10,& GPU TITAN RTX.  
+**Recomendation:** tensorflow 1.13, coda 10,& GPU TITAN RTX.  
 
 # Download data:
 
